@@ -8,8 +8,8 @@ from email.message import EmailMessage
 from email.utils import formataddr
 import pandas as pd
 
-EMAIL_ADDRESS = 'bhoranuj3@gmail.com'
-EMAIL_PASSWORD = 'anujb109$'
+EMAIL_ADDRESS = '<>"
+EMAIL_PASSWORD = '<>'
 
 i = 1
 with open("emaillogs.txt", 'a') as f:
